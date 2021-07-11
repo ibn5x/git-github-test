@@ -1,0 +1,11 @@
+[33mcommit 7eb982224fe57845bf187e9ab67e2eec19103119[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mikal <mikalmuhammad@twentysevensounds.com>
+Date:   Sun Jul 11 00:58:13 2021 -0400
+
+    ASA just HTML and CSS changes
+
+[33mcommit e30daf596b415f715097badb106f5e0b421467b8[m
+Author: mikal <mikalmuhammad@twentysevensounds.com>
+Date:   Sun Jul 11 00:49:59 2021 -0400
+
+    ASA app created and implemented stylesheet
